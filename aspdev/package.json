@@ -1,0 +1,20 @@
+{
+  "name": "aspdev",
+  "version": "1.0.0",
+  "description": "[![build status](https://travis-ci.org/Microsoft/vscode-generator-code.svg?branch=master)](https://github.com/weicracker/aspdev)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@10.0.32.99:devops/aspdev.git"
+  },
+  "author": "jiwei",
+  "license": "ISC",
+  "dependencies": {
+    "asar": "^0.13.0",
+    "promise": "^7.1.1",
+    "request": "^2.79.0"
+  }
+}
